@@ -1,5 +1,5 @@
 # InventoryTracker
-a full stack Java app to add things to track
+A full stack Java app used to keep inventory of things.
 
 ---
 # Technologies
