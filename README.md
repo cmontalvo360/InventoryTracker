@@ -4,7 +4,14 @@ A full stack Java app used to keep inventory of things.
 ---
 # Technologies
 
-Java, Sprin Boot, MySQL
+Java
+Spring Boot
+Hibernate
+MySQL
+ReactJS
+HTML
+CSS
+JavaScript
 
 ---
 # About
