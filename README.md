@@ -14,4 +14,6 @@ A full stack Java app used to keep inventory of things.
 -JavaScript
 
 ---
-# About
+# Recent Updates
+
+In the process off adding JWT for authentication
